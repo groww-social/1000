@@ -5378,60 +5378,6 @@ ul.sidemenu li a p {
     color: #fff; 
     margin-left: 5px; 
 }
-</style>
-
-
-
-</head>
-<body> 
-    <center> 
-       <nav class="navbar guestnav navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">
-                <img src="https://groww-social.github.io/1000/images/brandlogo.png" alt="Social Media Diagram" title="" class="adjustable-image">
-            </a>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-            <div class="marginhead"></div> <!-- Moved outside <ul> -->
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="http://socialmidiagram.com/services">
-                        <i class="navbar-icon fas fa-link"></i> Services
-                    </a>
-                </li>
-                <li>
-                    <a href="http://socialmidiagram.com/developer">
-                        <i class="navbar-icon fab fa-stack-overflow"></i> API
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.instagram.com/socialin17?igsh=MWttcnduanRqc3Q3OQ==">
-                        <i class="navbar-icon fas fa-balance-scale"></i> Instagram
-                    </a>
-                </li>
-                <li class="ctamenu">
-                    <a class="ctabtn frstctabtn" href="http://socialmidiagram.com/login">Login</a>
-                </li>
-            </ul>
-            <div class="margd"></div> <!-- Moved outside <ul> -->
-            <ul class="nav navbar-nav navbar-right">
-                <li class="ctamenu ctaregis">
-                    <a class="ctabtn" href="http://socialmidiagram.com/reg">Register</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-    </center>
-    
-    <style>
         /* General Styles for All Devices */
 .navbar {
     background-color: #fff;
